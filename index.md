@@ -4,8 +4,7 @@ layout: default
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
-[[about]](./another-page.html).
-[[mint]](./another-page.html).
+
 
 # Header 1
 
