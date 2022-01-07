@@ -47,11 +47,10 @@ If you're reading this you've probably seen collections of collections of "uniqu
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-### There's a horizontal rule below this.
 
 * * *
 
-### Here is an unordered list:
+<!-- ### Here is an unordered list:
 
 *   Item foo
 *   Item bar
@@ -79,7 +78,7 @@ If you're reading this you've probably seen collections of collections of "uniqu
 - level 1 item
   - level 2 item
   - level 2 item
-- level 1 item
+- level 1 item -->
 
 ### Small image
 
