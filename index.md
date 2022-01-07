@@ -25,7 +25,7 @@ If you're reading this you've probably seen collections of collections of "uniqu
 
 <!-- > This is a blockquote following a header. -->
 
-## [Affiliates]
+# [Affiliates]
 
 
 <!-- 
