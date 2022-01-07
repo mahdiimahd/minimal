@@ -20,7 +20,7 @@ If you're reading this you've probably seen collections of collections of "uniqu
 *   3.33% of proceeds allocated towards Black Businesses
 
 
-# [Mint](https://remarkable-tiger-5bed2.netlify.app/)
+# [[Mint]](https://remarkable-tiger-5bed2.netlify.app/)
 
 
 <!-- > This is a blockquote following a header. -->
