@@ -5,7 +5,7 @@ layout: default
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
 <!-- [About](./another-page.html).  -->
-[Mint](https://remarkable-tiger-5bed2.netlify.app/).
+<!-- [Mint](https://remarkable-tiger-5bed2.netlify.app/). -->
 
 **Be the first to media outlet to feature Zéro Day Loot!**
 
@@ -19,7 +19,15 @@ If you're reading this you've probably seen collections of collections of "uniqu
 *   3.33% of proceeds allocated towards sustainability and renewable energy.
 *   3.33% of proceeds allocated towards Black Businesses
 
-> This is a blockquote following a header.
+
+# [Mint](https://remarkable-tiger-5bed2.netlify.app/)
+
+*   3.33% of proceeds allocated towards community outreach and academic/life tutoring in inner-city (Cities of interest: Detroit, Los Angeles, Washington, D.C.).
+*   3.33% of proceeds allocated towards sustainability and renewable energy.
+*   3.33% of proceeds allocated towards Black Businesses
+
+
+<!-- > This is a blockquote following a header. -->
 
 ## [Affiliates]
 
