@@ -4,38 +4,26 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[About](./another-page.html). 
+[Mint](https://remarkable-tiger-5bed2.netlify.app/).
 
 Be the first to outlet to feature Zéro Day Loot!
 
 # [ZDL]
 
-If you're reading this you've probably seen collections of collections of "uniquely generated collectibles". Collectibles are great, but the 7,777 ZDL tokens are here to simply enable anyone with access to the blockchain to simultaneously do community service, buy early shares of [ér] - which we'll get to soon - and drip with urgency and priority. Zero Day is a global initiative that is globally influenced. All this shit is decentralized, right? The initiative, however, is a direct product of Detroit (UMich) and Washington, D.C. developers. 
+If you're reading this you've probably seen collections of collections of "uniquely generated collectibles". Collectibles are great, but the 7,777 ZDL tokens are here to simply enable anyone with access to the blockchain to simultaneously contribute to disenfranchised communities, buy early shares of [ér] - which we'll get to soon - and drip with urgency and priority. Zero Day is a global initiative that is globally influenced. We're all decentralized here, right? The initiative, however, is a direct product of Detroit (UMich) and Washington, D.C. intelligence. 
 
-## [Initiatives]
+# [Initiatives]
 
-*   2% of proceeds allocated towards community outreach and academic/life tutoring in inner-city (Cities of interest: Detroit, Los Angeles, Washington, D.C.)
-*   2% of proceeds allocated towards 
-*   2% of proceeds allocated towards 
+*   3.33% of proceeds allocated towards community outreach and academic/life tutoring in inner-city (Cities of interest: Detroit, Los Angeles, Washington, D.C.).
+*   3.33% of proceeds allocated towards sustainability and renewable energy.
+*   3.33% of proceeds allocated towards Black Businesses
 
 > This is a blockquote following a header.
 
 ## [Affiliates]
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+*  
 
 #### Header 4
 
