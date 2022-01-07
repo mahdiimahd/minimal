@@ -24,7 +24,6 @@ If you're reading this you've probably seen collections of collections of "uniqu
 ## [Affiliates]
 
 
-
 <!-- 
 #### Header 4
 
@@ -38,6 +37,8 @@ If you're reading this you've probably seen collections of collections of "uniqu
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header. -->
 
+* * *
+
 ###### Header 6
 
 | head1        | head two          | three |
@@ -47,8 +48,6 @@ If you're reading this you've probably seen collections of collections of "uniqu
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-
-* * *
 
 <!-- ### Here is an unordered list:
 
