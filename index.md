@@ -6,7 +6,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-Be the first to outlet to feature Zéro Day Loot 
+Be the first to outlet to feature Zéro Day Loot!
 
 # [ZDL]
 
@@ -14,9 +14,11 @@ If you're reading this you've probably seen collections of collections of "uniqu
 
 ## [Initiatives]
 
+*   2% of proceeds allocated towards community outreach and academic/life tutoring in inner-city (Cities of interest: Detroit, Los Angeles, Washington, D.C.)
+*   2% of proceeds allocated towards 
+*   2% of proceeds allocated towards 
+
 > This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
 ## [Affiliates]
 
