@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[About](./another-page.html). 
+<!-- [About](./another-page.html).  -->
 [Mint](https://remarkable-tiger-5bed2.netlify.app/).
 
 Be the first to outlet to feature Zéro Day Loot!
