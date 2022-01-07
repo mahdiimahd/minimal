@@ -43,7 +43,7 @@ If you're reading this you've probably seen collections of collections of "uniqu
 
 * * *
 
-###### Header 6
+<!-- ###### Header 6 -->
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
