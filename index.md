@@ -1,15 +1,18 @@
-<!-- ---
+---
 layout: default
---- -->
+---
 
-<!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[[about]](./another-page.html).
-[[mint]](./another-page.html).
+[Link to another page](./another-page.html).
 
-# [ZDL]
+There should be whitespace between paragraphs.
 
-If you're reading this you've probably seen collections of collections of "uniquely generated collectibles". Collectibles are great, but the 7,777 ZDL tokens are here to simply enable anyone with access to the blockchain to simultaneously do community service, buy early shares of [ér] - which we'll get to soon - and drip with urgency and priority. Zero Day is a global initiative that is globally influenced. All this shit is decentralized, right? The initiative, however, is a direct product of Detroit (UMich) and Washington, D.C. developers. 
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+
+# Header 1
+
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## Header 2
 
@@ -17,7 +20,7 @@ If you're reading this you've probably seen collections of collections of "uniqu
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+## Header 3
 
 ```js
 // Javascript code with syntax highlighting.
