@@ -6,21 +6,19 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Be the first to outlet to feature Zéro Day Loot 
 
 # [ZDL]
 
 If you're reading this you've probably seen collections of collections of "uniquely generated collectibles". Collectibles are great, but the 7,777 ZDL tokens are here to simply enable anyone with access to the blockchain to simultaneously do community service, buy early shares of [ér] - which we'll get to soon - and drip with urgency and priority. Zero Day is a global initiative that is globally influenced. All this shit is decentralized, right? The initiative, however, is a direct product of Detroit (UMich) and Washington, D.C. developers. 
 
-## Header 2
+## [Initiatives]
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-## Header 3
+## [Affiliates]
 
 ```js
 // Javascript code with syntax highlighting.
