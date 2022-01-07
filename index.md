@@ -2,12 +2,12 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
 <!-- [About](./another-page.html).  -->
 [Mint](https://remarkable-tiger-5bed2.netlify.app/).
 
-Be the first to outlet to feature Zéro Day Loot!
+**Be the first to media outlet to feature Zéro Day Loot!**
 
 # [ZDL]
 
@@ -23,19 +23,20 @@ If you're reading this you've probably seen collections of collections of "uniqu
 
 ## [Affiliates]
 
-*  
 
+
+<!-- 
 #### Header 4
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   This is an unordered list following a header. -->
 
-##### Header 5
+<!-- ##### Header 5
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+3.  This is an ordered list following a header. -->
 
 ###### Header 6
 
