@@ -97,9 +97,7 @@ _**Be the first to media outlet to feature Zéro Day Loot**_
 
 ### Large image -->
 
-
-
-### Definition lists can be used with HTML syntax.
+<!-- ### Definition lists can be used with HTML syntax. -->
 
 <dl>
 <dt>Name</dt>
@@ -113,9 +111,7 @@ _**Be the first to media outlet to feature Zéro Day Loot**_
 </dl>
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+hey hey
 ```
 
-```
-The final element.
-```
+
