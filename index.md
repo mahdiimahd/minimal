@@ -24,6 +24,8 @@ bosiér reconciles inner-city life and the engineering design principles underne
 
 # [[Mint]](https://remarkable-tiger-5bed2.netlify.app/)
 
+![NFT](https://gateway.pinata.cloud/ipfs/QmYU6S6un5HKHn88idzUNismLhX5d57NLYFM8wPGDcn3ZN)
+
 # [[Galerie]](./another-page.html)
 
 <!-- > This is a blockquote following a header. -->
@@ -95,7 +97,6 @@ _**Be the first to media outlet to feature Zéro Day Loot**_
 
 ### Large image -->
 
-![NFT](https://gateway.pinata.cloud/ipfs/QmYU6S6un5HKHn88idzUNismLhX5d57NLYFM8wPGDcn3ZN)
 
 
 ### Definition lists can be used with HTML syntax.
