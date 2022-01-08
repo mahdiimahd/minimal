@@ -32,7 +32,8 @@ bosiér reconciles inner-city life and the engineering design principles underne
 # [Affiliates]
 
 *   Movaro
-*   _**Be the first to media outlet to feature Zéro Day Loot**_
+
+_**Be the first to media outlet to feature Zéro Day Loot**_
 
 <!-- 
 #### Header 4
