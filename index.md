@@ -12,15 +12,15 @@ layout: default
 
 If you're reading this you've probably seen collections of collections of "uniquely generated collectibles". Collectibles are great, but the 7,777 ZDL tokens are here to simply enable anyone with access to the blockchain to simultaneously contribute to disenfranchised communities, buy early shares of [ér](https://bosier.xyz) - which we'll get to soon - and drip with urgency and priority. Zero Day is a global initiative that is globally influenced. We're all decentralized here, right? The initiative, however, is a direct product of Detroit (UMich) and Washington, D.C. intelligence. 
 
+# [bosiér;](https://bosier.xyz)
+
+bosiér reconciles inner-city life and the engineering design principles underneath a rapidly changing world of technology. It draws connection between the mutual influence amid at-risk Black youth and the algorithms that exist in the infrastructure and [social] media that rely on technology. Designs draw influence from many sources such as cosmopolitanism, the growing globalism in urban youth culture and fashion, typography and design within software development, and fine art. bosiér aims to artistically display these inspirations under the same light, via fashion and other mediums.
+
 # [Initiatives]
 
 *   3.33% of proceeds allocated towards community outreach and academic/life tutoring in inner-city (Cities of interest: Detroit, Los Angeles, Washington, D.C.).
 *   3.33% of proceeds allocated towards sustainability and renewable energy.
 *   3.33% of proceeds allocated towards Black Businesses
-
-# [bosiér;](https://bosier.xyz)
-
-bosiér reconciles inner-city life and the engineering design principles underneath a rapidly changing world of technology. It draws connection between the mutual influence amid at-risk Black youth and the algorithms that exist in the infrastructure and [social] media that rely on technology. Designs draw influence from many sources such as cosmopolitanism, the growing globalism in urban youth culture and fashion, typography and design within software development, and fine art. bosiér aims to artistically display these inspirations under the same light, via fashion and other mediums.
 
 # [[Mint]](https://remarkable-tiger-5bed2.netlify.app/)
 
