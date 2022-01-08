@@ -26,7 +26,7 @@ bosiér reconciles inner-city life and the engineering design principles underne
 
 ![NFT](https://gateway.pinata.cloud/ipfs/QmYU6S6un5HKHn88idzUNismLhX5d57NLYFM8wPGDcn3ZN)
 
-# [[Galerie]](./another-page.html)
+# [[Galerie]](./galerie.html)
 
 <!-- > This is a blockquote following a header. -->
 
