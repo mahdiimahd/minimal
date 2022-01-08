@@ -10,7 +10,7 @@ layout: default
 
 # [ZDL NFT]
 
-If you're reading this you've probably seen collections of collections of "uniquely generated collectibles". Collectibles are great, but the 7,777 ZDL tokens are here to simply enable anyone with access to the blockchain to simultaneously contribute to disenfranchised communities, buy early shares of [ér](https://bosier.xyz) - which we'll get to soon - and drip with urgency and priority. Zero Day is a global initiative that is globally influenced. We're all decentralized here, right? The initiative, however, is a direct product of Detroit (UMich) and Washington, D.C. intelligence. 
+If you're reading this you've probably seen collections of collections of "uniquely generated collectibles". Collectibles are great, but the 7,777 ZDL tokens are here to simply enable anyone with access to the blockchain to simultaneously contribute to disenfranchised communities, buy early shares of [ér](https://bosier.xyz) - which we'll get to soon - and drip with urgency and priority. Zero Day is a global initiative that is globally influenced.
 
 # [bosiér;](https://bosier.xyz)
 
