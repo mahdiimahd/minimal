@@ -8,7 +8,7 @@ layout: default
 <!-- [Mint](https://remarkable-tiger-5bed2.netlify.app/). -->
 
 
-# [ZDL]
+# [ZDL NFT]
 
 If you're reading this you've probably seen collections of collections of "uniquely generated collectibles". Collectibles are great, but the 7,777 ZDL tokens are here to simply enable anyone with access to the blockchain to simultaneously contribute to disenfranchised communities, buy early shares of [ér](https://bosier.xyz) - which we'll get to soon - and drip with urgency and priority. Zero Day is a global initiative that is globally influenced. We're all decentralized here, right? The initiative, however, is a direct product of Detroit (UMich) and Washington, D.C. intelligence. 
 
@@ -32,6 +32,7 @@ bosiér reconciles inner-city life and the engineering design principles underne
 # [Affiliates]
 
 *   Movaro
+
 _**Be the first to media outlet to feature Zéro Day Loot**_
 
 <!-- 
@@ -95,7 +96,7 @@ _**Be the first to media outlet to feature Zéro Day Loot**_
 
 ### Large image -->
 
-![Bre](https://gateway.pinata.cloud/ipfs/QmYU6S6un5HKHn88idzUNismLhX5d57NLYFM8wPGDcn3ZN)
+![NFT](https://gateway.pinata.cloud/ipfs/QmYU6S6un5HKHn88idzUNismLhX5d57NLYFM8wPGDcn3ZN)
 
 
 ### Definition lists can be used with HTML syntax.
