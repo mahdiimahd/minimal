@@ -7,7 +7,6 @@ layout: default
 <!-- [About](./another-page.html).  -->
 <!-- [Mint](https://remarkable-tiger-5bed2.netlify.app/). -->
 
-**Be the first to media outlet to feature Zéro Day Loot!**
 
 # [ZDL]
 
@@ -26,7 +25,7 @@ If you're reading this you've probably seen collections of collections of "uniqu
 <!-- > This is a blockquote following a header. -->
 
 # [Affiliates]
-
+_**Be the first to media outlet to feature Zéro Day Loot**_
 
 <!-- 
 #### Header 4
