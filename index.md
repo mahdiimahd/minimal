@@ -90,7 +90,7 @@ If you're reading this you've probably seen collections of collections of "uniqu
 ### Large image
 
 ![Branching](https://github.com/mahdiimahd/minimal/tree/master/assets/img/logo.png)
-![Bre](https://github.com/mahdiimahd/minimal/blob/master/assets/img/test.png)
+![Bre](https://gateway.pinata.cloud/ipfs/QmYU6S6un5HKHn88idzUNismLhX5d57NLYFM8wPGDcn3ZN)
 
 
 ### Definition lists can be used with HTML syntax.
