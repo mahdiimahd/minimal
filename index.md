@@ -83,13 +83,12 @@ If you're reading this you've probably seen collections of collections of "uniqu
   - level 2 item
 - level 1 item -->
 
-### Small image
+<!-- ### Small image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Large image
+### Large image -->
 
-![Branching](https://github.com/mahdiimahd/minimal/tree/master/assets/img/logo.png)
 ![Bre](https://gateway.pinata.cloud/ipfs/QmYU6S6un5HKHn88idzUNismLhX5d57NLYFM8wPGDcn3ZN)
 
 
