@@ -22,13 +22,17 @@ bosiér reconciles inner-city life and the engineering design principles underne
 *   3.33% of proceeds allocated towards sustainability and renewable energy.
 *   3.33% of proceeds allocated towards Black Businesses
 
+# [[Utility]]
+
+*   Utility 1
+*   Utility 2
+*   Utility 3
+
 # [[Mint]](https://remarkable-tiger-5bed2.netlify.app/)
 
 ![NFT](https://gateway.pinata.cloud/ipfs/QmYU6S6un5HKHn88idzUNismLhX5d57NLYFM8wPGDcn3ZN)
 
 # [[Galerie]](./gallery.html)
-
-<!-- > This is a blockquote following a header. -->
 
 # [Affiliates]
 
@@ -101,7 +105,7 @@ _**Be the first to media outlet to feature Zéro Day Loot**_
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ### Large image -->
-
+<!-- > This is a blockquote following a header. -->
 <!-- ### Definition lists can be used with HTML syntax. -->
 
 <dl>
