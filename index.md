@@ -34,6 +34,7 @@ bosiér reconciles inner-city life and the engineering design principles underne
 
 *   [Sociological Solutions](https://sociologicalsolutions.com)
 *   [Movaro](https://movaro.store)
+*   [University of Michigan Alumni Association](https://alumni.umich.edu/)
 
 
 _**Be the first to media outlet to feature Zéro Day Loot**_
