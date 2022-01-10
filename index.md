@@ -64,12 +64,11 @@ _**Be the first to media outlet to feature Zéro Day Loot**_
 
 <!-- ###### Header 6 -->
 
-| Protocol     | Phrase            | Pct. Ownership     |
+<!-- | Protocol     | Phrase            | Pct. Ownership     |
 |:-------------|:------------------|:-------------------|
 | Prime        | English           | 0.00257            |
 | Prime        | English/French    | 0.00257            |
-| ok           | good `oreos`      | 0.00257            |
-
+| ok           | good `oreos`      | 0.00257            | -->
 
 
 <!-- ### Here is an unordered list:
@@ -110,7 +109,7 @@ _**Be the first to media outlet to feature Zéro Day Loot**_
 <!-- > This is a blockquote following a header. -->
 <!-- ### Definition lists can be used with HTML syntax. -->
 
-<dl>
+<!-- <dl>
 <dt>Name</dt>
 <dd>Godzilla</dd>
 <dt>Born</dt>
@@ -119,10 +118,6 @@ _**Be the first to media outlet to feature Zéro Day Loot**_
 <dd>Japan</dd>
 <dt>Color</dt>
 <dd>Green</dd>
-</dl>
-
-```
-hey hey
-```
+</dl> -->
 
 
