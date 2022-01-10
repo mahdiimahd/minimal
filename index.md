@@ -47,6 +47,8 @@ bosiér reconciles inner-city life and the engineering design principles underne
 
 _**Be the first to media outlet to feature Zéro Day Loot**_
 
+* * *
+
 <!-- 
 #### Header 4
 
@@ -60,7 +62,6 @@ _**Be the first to media outlet to feature Zéro Day Loot**_
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header. -->
 
-* * *
 
 <!-- ###### Header 6 -->
 
