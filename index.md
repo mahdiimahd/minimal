@@ -22,7 +22,7 @@ bosiér reconciles inner-city life and the engineering design principles underne
 *   3.33% of proceeds allocated towards sustainability and renewable energy.
 *   3.33% of proceeds allocated towards Black Businesses
 
-# [[Utility]]
+# [Utility]
 
 *   Utility 1
 *   Utility 2
