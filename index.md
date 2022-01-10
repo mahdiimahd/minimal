@@ -24,9 +24,9 @@ bosiér reconciles inner-city life and the engineering design principles underne
 
 # [Utility]
 
-*   Utility 1
-*   Utility 2
-*   Utility 3
+*   20% off all bosiér clothing for all token owners including priority with special orders/items not currently on sale. 
+*   .00257% of all bosiér sales per token will be distributed to token holders
+*   
 
 # [[Mint]](https://remarkable-tiger-5bed2.netlify.app/)
 
