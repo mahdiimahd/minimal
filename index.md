@@ -32,6 +32,8 @@ bosiér reconciles inner-city life and the engineering design principles underne
 
 ![NFT](https://gateway.pinata.cloud/ipfs/QmYU6S6un5HKHn88idzUNismLhX5d57NLYFM8wPGDcn3ZN)
 
+# [Roadmap](./_layouts/rmap.html)
+
 # [[Galerie]](./gallery.html)
 
 # [Affiliates]
@@ -44,8 +46,6 @@ bosiér reconciles inner-city life and the engineering design principles underne
 
 
 _**Be the first to media outlet to feature Zéro Day Loot**_
-
-# [Roadmap](./_layouts/rmap.html)
 
 <!-- 
 #### Header 4
