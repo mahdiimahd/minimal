@@ -21,6 +21,7 @@ bosiér reconciles inner-city life and the engineering design principles underne
 *   3.33% of proceeds allocated towards community outreach and academic/life tutoring in inner-city (Cities of interest: Detroit, Los Angeles, Washington, D.C.).
 *   3.33% of proceeds allocated towards sustainability and renewable energy.
 *   3.33% of proceeds allocated towards Black Businesses
+*   _Progress tracker graphic will appear here after ZDL release_
 
 # [Utility]
 
