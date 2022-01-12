@@ -10,7 +10,7 @@ layout: default
 
 # [ZDL NFT]
 
-If you're reading this you've probably seen collections of collections of "uniquely generated collectibles". Collectibles are great, but the 7,777 ZDL tokens are here to simply enable anyone with access to the Ethereum blockchain to simultaneously contribute to disenfranchised communities, buy early shares of [bosiér](https://bosier.xyz) - which we'll get to soon - and drip with urgency and priority. Zero Day Loot is a global initiative that is globally influenced.
+If you're reading this you've probably seen collections of collections of "uniquely generated collectibles". Collectibles are great, but the 7,777 ZDL tokens are here to simply enable anyone with access to the Ethereum blockchain to simultaneously contribute to disenfranchised communities, become a [bosiér](https://bosier.xyz) shareholder - which we'll get to soon - and drip with urgency and priority. Zero Day Loot is a global initiative that is globally influenced.
 
 # [bosiér;](https://bosier.xyz)
 
