@@ -26,7 +26,7 @@ bosiér reconciles inner-city life and the engineering design principles underne
 # [Utility]
 
 *   20% off all bosiér clothing for all token owners including priority with special orders/items not currently on sale. 
-*   .00257% of all bosiér sales per token will be distributed to token holders
+*   .00513% of all bosiér sales per token will be distributed to token holders
 *   Token owners who hodl until the Zero Day Hackrs release will be granted one free mint. All token holders at the time of the release will be have presale access.
 
 # [[Mint]](https://remarkable-tiger-5bed2.netlify.app/)
