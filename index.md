@@ -10,7 +10,9 @@ layout: default
 
 # [ZDL NFT]
 
-If you're reading this you've probably seen collections of collections of "uniquely generated collectibles". Collectibles are great, but the 7,777 ZDL tokens are here to simply enable anyone with access to the Ethereum blockchain to simultaneously contribute to disenfranchised communities, become a [bosiér](https://bosier.xyz) shareholder - which we'll get to soon - and drip with urgency and priority. Zero Day Loot is a global initiative that is globally influenced.
+If you're reading this you've probably seen collections of collections of "uniquely generated collectibles". Collectibles are great, but the 7,777 ZDL tokens are here to simply enable anyone with access to the Ethereum blockchain to simultaneously contribute to disenfranchised communities, become a [bosiér](https://bosier.xyz) shareholder - which we'll get to soon - and drip with urgency and priority. Zero Day Loot is a global initiative.
+
+Each token contains a unique token ID, protocol, concept, and phrase. All tokens merit .00513% in bosiér sales and 40% off of all clothing. Each token image also contains a topographic backdrop design. Some tokens contain concepts and/or phrases in English and others are in French. 
 
 # [bosiér;](https://bosier.xyz)
 
@@ -26,7 +28,7 @@ bosiér reconciles inner-city life and a rapidly changing world of technology. I
 # [Utility]
 
 *   .00513% of all bosiér sales per token will be distributed to token holders
-*   50% off all bosiér clothing for all token owners including priority with special orders/items not currently on sale or released yet. 
+*   40% off all bosiér clothing for all token owners including priority with special orders/items not currently on sale or released yet. 
 *   Minters who hodl until the Zero Day Hackrs release will be granted one free mint. All token holders at the time of the release will be have presale access.
 
 # [[Mint]](https://remarkable-tiger-5bed2.netlify.app/)
