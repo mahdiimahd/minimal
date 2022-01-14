@@ -14,7 +14,7 @@ If you're reading this you've probably seen collections of collections of "uniqu
 
 # [bosiér;](https://bosier.xyz)
 
-bosiér reconciles inner-city life and the engineering design principles underneath a rapidly changing world of technology. It draws connection between the mutual influence amid at-risk Black youth and the algorithms that exist in the infrastructure and [social] media that rely on technology. Designs draw influence from many sources such as cosmopolitanism, the growing globalism in urban youth culture and fashion, typography and design within software development, and fine art. bosiér aims to artistically display these inspirations under the same light, via fashion and other mediums.
+bosiér reconciles inner-city life and a rapidly changing world of technology. It draws connection between the mutual influence amid at-risk Black youth and the algorithms that exist in the infrastructure and [social] media that rely on technology. Designs draw influence from many sources such as fine art, the growing globalism in urban youth culture and fashion, typography and design within software development. bosiér aims to artistically display these inspirations under the same light, via fashion and other mediums.
 
 # [Initiatives]
 
