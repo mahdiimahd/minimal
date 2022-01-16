@@ -27,7 +27,7 @@ bosiér reconciles inner-city life and a rapidly changing world of technology. I
 
 # [Utility]
 
-*   .00513% of all bosiér sales per token will be distributed to token holders
+*   .513% of all bosiér sales per token will be distributed to token holders
 *   40% off all bosiér clothing for all token owners including priority with special orders/items not currently on sale or released yet. 
 *   Minters who hodl until the Zero Day Hackrs release will be granted one free mint. All token holders at the time of the release will be have presale access.
 
