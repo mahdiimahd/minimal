@@ -10,25 +10,25 @@ layout: default
 
 # [ZDL NFT]
 
-If you're reading this you've probably seen collections of collections of "uniquely generated collectibles". Collectibles are great, but the 7,777 ZDL tokens are here to simply enable anyone with access to the Ethereum blockchain to simultaneously contribute to disenfranchised communities, become a [bosiér](https://bosier.xyz) shareholder - which we'll get to soon - and drip with urgency and priority. Zero Day Loot is a global initiative. The ZDL tokens will be here February 2022!
+If you're reading this you've probably seen collections of collections of "uniquely generated collectibles". Collectibles are great, but the 7,777 ZDL tokens are here to simply enable anyone with access to the Ethereum blockchain to gain a financial asset that will contribute to disenfranchised communities, generate residual income from [bosiér](https://bosier.xyz) shares - which we'll get to soon - and drip with urgency and priority. Zero Day Loot is a global initiative. The ZDL tokens will be here February 2022!
 
-Each token contains a unique token ID, protocol, concept, and phrase. All tokens merit .00513% in bosiér sales and 40% off of all clothing. Each token image also contains a topographic backdrop design. Some tokens contain concepts and/or phrases in English and others are in French.  
+Each token contains a unique token ID, protocol, concept, phrase, and rarity. Rarity details will be revealed by the end of January. All tokens merit a unique percent of bosiér sales revenue and a percentage off of all clothing. Each token image also contains a topographic backdrop design. Some tokens contain concepts and/or phrases in English and others are in French.  
 
 # [bosiér;](https://bosier.xyz)
 
-bosiér reconciles inner-city life and a rapidly changing world of technology. It draws connection between the mutual influence amid at-risk Black youth and the algorithms that exist in the infrastructure and [social] media that rely on technology. Designs draw influence from many sources such as fine art, the growing globalism in urban youth culture and fashion, typography and design within software development. bosiér aims to artistically display these inspirations under the same light, via fashion and other mediums.
+bosiér reconciles inner-city life and a rapidly changing world of technology. It draws connection between the mutual influence amid at-risk Black youth and the algorithms that exist in the infrastructure and [social] media that rely on technology. Designs draw influence from many sources such as fine art, the growing globalism in urban youth culture and fashion, typography and design within software development. bosiér aims to artistically display these inspirations under the same light, via fashion and other mediums. bosiér is currenty a designer in its early stages. However, it is a lifelong namesake organization and most if not all non-fashion related business created by the bosiér creators will be subsidiary to bosiér thus increasing the value of each token.
 
 # [Initiatives]
 
 *   3.33% of proceeds allocated towards community outreach and academic/life tutoring in inner-city (Cities of interest: Detroit, Los Angeles, Washington, D.C.).
-*   3.33% of proceeds allocated towards sustainability and renewable energy.
 *   3.33% of proceeds allocated towards Black Businesses
+*   3.33% of proceeds allocated towards sustainability and renewable energy.
 *   _Progress tracking graphics will appear here after ZDL release_
 
 # [Utility]
 
-*   .00513% of all bosiér sales per token will be distributed to token holders
-*   40% off all bosiér clothing for all token owners including priority with special orders/items not currently on sale or released yet. 
+*   A percentage of all bosiér sales per token will be distributed to token holders
+*   (??)% off all bosiér clothing for all token owners including priority with special orders/items not currently on sale or released yet. 
 *   Minters who hodl until the Zero Day Hackrs release will be granted one free mint. All token holders at the time of the release will be have presale access.
 
 # [[Mint]](https://remarkable-tiger-5bed2.netlify.app/)
