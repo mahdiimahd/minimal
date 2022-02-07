@@ -34,7 +34,7 @@ bosiér reconciles inner-city life and a rapidly changing world of technology. I
 
 [ * ] Subject to increase in frequency  
 
-# [[Mint]](https://remarkable-tiger-5bed2.netlify.app/)
+# [[Mint]](https://zerodayloot.netlify.app/)
 
 ![NFT](https://gateway.pinata.cloud/ipfs/QmYU6S6un5HKHn88idzUNismLhX5d57NLYFM8wPGDcn3ZN)
 
