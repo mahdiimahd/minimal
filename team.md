@@ -10,8 +10,8 @@ Mahdi is a software engineer and fashion designer based in Los Angeles.  He was 
 
 # Gug
 
-![gug](https://gateway.pinata.cloud/ipfs/QmVoeWgVnTH2iuyMVemUFpJV39Dzn8TViCPTC6K1oqGY3i)
-Gug is an investor, stock trader, and New York native. He is also recent graduate of the University of Michigan, majoring in economics. He enjoys the outdoors, basketball, and studying new financial assets and economics.
+![gug](https://gateway.pinata.cloud/ipfs/QmVoeWgVnTH2iuyMVemUFpJV39Dzn8TViCPTC6K1oqGY3i)<br />
+Gug is an investor, stock trader, and New York native. He is also recent graduate of the University of Michigan, majoring in economics. He enjoys the outdoors, traveling with friends, basketball, and studying new financial assets and economics.
 
 
 [back](./)
