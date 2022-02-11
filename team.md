@@ -11,7 +11,7 @@ Mahdi is a software engineer and fashion designer based in Los Angeles.  He was 
 # Gug
 
 ![gug](https://gateway.pinata.cloud/ipfs/QmVoeWgVnTH2iuyMVemUFpJV39Dzn8TViCPTC6K1oqGY3i)<br />
-Gug is an investor, stock trader, and New York native. He is also recent graduate of the University of Michigan, majoring in economics. He enjoys the outdoors, traveling with friends, basketball, and studying new financial assets and economics.
+Daniel is a venture capitalist, derivatives trader, and New York native. He is also recent graduate of the University of Michigan, with a major in economics. His passion lies in trading stocks/crypto and investing in high growth potential early-stage companies and projects. Along with investing, Daniel has a strong desire in the philosophy of earning-to-give, helping to support the people/organizations in need.
 
 
 [back](./)
