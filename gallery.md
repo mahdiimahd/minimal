@@ -14,7 +14,7 @@ layout: default
 ![refreshPageIfImgNotShowing](https://gateway.pinata.cloud/ipfs/QmYRAMN69pZFgBApa3wYVKgtRybmAhdYLyha4ksbi7u2SF/IMG_0830.jpeg)
 ![refreshPageIfImgNotShowing](https://gateway.pinata.cloud/ipfs/QmYRAMN69pZFgBApa3wYVKgtRybmAhdYLyha4ksbi7u2SF/IMG_9551.jpeg)
 ![refreshPageIfImgNotShowing](https://gateway.pinata.cloud/ipfs/QmYRAMN69pZFgBApa3wYVKgtRybmAhdYLyha4ksbi7u2SF/IMG_9547.jpeg)
-![refreshPageIfImgNotShowing](https://gateway.pinata.cloud/ipfs/QmYf7EYu8WWUSxLEK4hEJs3xTusEng1XAngRbDN1RmpD7S)
+![refreshPageIfImgNotShowing](ipfs://QmYf7EYu8WWUSxLEK4hEJs3xTusEng1XAngRbDN1RmpD7S)
 ![refreshPageIfImgNotShowing](https://gateway.pinata.cloud/ipfs/QmYRAMN69pZFgBApa3wYVKgtRybmAhdYLyha4ksbi7u2SF/IMG_9543.jpeg)
 
 [back](./)
