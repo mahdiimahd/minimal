@@ -10,7 +10,7 @@ layout: default
 
 # [ZDL NFT]
 
-If you're reading this you've probably seen collections of collections of "uniquely generated collectibles". Collectibles are great, but the 7,777 ZDL tokens are here to simply enable anyone with access to the Ethereum blockchain to gain a financial asset that will contribute to disenfranchised communities, generate residual income from [bosiér](https://bosier.xyz) shares - which we'll get to soon - and drip with urgency and priority. Zero Day Loot is a global initiative. The ZDL tokens will be here February 2022!
+If you're reading this you've probably seen collections of collections of "uniquely generated collectibles". Collectibles are great, but the 7,777 ZDL tokens are here to simply enable anyone with access to the Ethereum blockchain to gain a financial asset that will contribute to disenfranchised communities, generate residual income from [bosiér](https://bosier.xyz) shares - which we'll get to soon - and drip with urgency and priority. Zero Day Loot is a global initiative. The ZDL tokens will be here mid to late 2022!
 
 Each token contains a unique token ID, protocol, concept, phrase, and rarity. Rarity details will be revealed by the end of January. All tokens merit a unique percent of bosiér sales revenue and a percentage off of all clothing. Each token image also contains a topographic backdrop design. Some tokens contain concepts and/or phrases in English and others are in French. **[[Discord]](https://discord.gg/H6WzSgyY) [[Twitter]](https://twitter.com/zerodayloot/)**
 
