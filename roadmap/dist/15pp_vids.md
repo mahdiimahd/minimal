@@ -9,7 +9,7 @@ layout: default
 
 
 # [a - My Story]
-
+![video1](aboutme.mov)
 
 
 # [b - Uniqueness]
