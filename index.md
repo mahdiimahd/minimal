@@ -8,7 +8,7 @@ layout: default
 <!-- [Mint](https://remarkable-tiger-5bed2.netlify.app/). -->
 
 
-# [ZDL NFT]
+# [Videos]
 
 If you're reading this you've probably seen collections of collections of "uniquely generated collectibles". Collectibles are great, but the 7,777 ZDL tokens are here to simply enable anyone with access to the Ethereum blockchain to gain a financial asset that will contribute to disenfranchised communities, generate residual income from [bosiér](https://bosier.xyz) shares - which we'll get to soon - and drip with urgency and priority. Zero Day Loot is a global initiative.
 
